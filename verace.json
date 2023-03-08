@@ -1,0 +1,13 @@
+{
+	"lang": "go",
+	"name": "ts-comment-adder",
+	"version": "0.0.1",
+	"targets": [
+		"win64",
+		"linux64"
+	],
+	"data": {
+		"foo": "bar"
+	},
+	"gomod": "lspaccatrosi16/ts-module-adder"
+}
